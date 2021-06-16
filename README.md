@@ -1,2 +1,3 @@
-# C-108-Bell-Curve-Normal-Distribution
-BY SOHAN'S CREATIONS AND REKHA MAM
+# This is Class Activity 108 --> (Bull Curve - Normal Distribution)
+# - Taught By Rekha Mam
+# - Learned By Sohan
